@@ -1,0 +1,12 @@
+{
+  "name": "agent-orbs",
+  "version": "0.1.0",
+  "description": "CLI tool to add mathematical kinetic AI loaders directly to your codebase",
+  "main": "bin/index.js",
+  "bin": {
+    "agent-orbs": "./bin/index.js"
+  },
+  "type": "module",
+  "keywords": ["ai", "agents", "loaders", "orbs", "canvas", "react", "shadcn"],
+  "license": "MIT"
+}
